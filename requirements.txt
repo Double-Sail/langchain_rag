@@ -22,4 +22,3 @@ fitz
 numpy==1.26.4
 duckduckgo_search
 pysqlite3-binary
-pip==23.3.1
